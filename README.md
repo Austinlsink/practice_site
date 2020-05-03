@@ -1,4 +1,4 @@
-# test_website
+# practice_website
  Practicing PHP, MySQL, JavaScript, and CSS
 
 # PHP
